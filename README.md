@@ -1,5 +1,4 @@
-# Novo Site Pet
-
+# Novo Site Pet - https://comppet.github.io/SiteCompPet/
 ## Vamos criar um novo site pro CompPet! 😃
 
 As tecnologias utilizadas serão:
